@@ -1,3 +1,5 @@
+Auto 是 Java 生成器源代码集合，Java 有许多机械、重复、未经测试的代码，而且有时会出现一些微妙的 Bug 。Auto 项目是自动执行这些类型的任务的代码生成器的集合，他们可以无 Bug 创建你要编写的代码。
+
 # Auto
 
 A collection of source code generators for [Java][java].
